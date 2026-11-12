@@ -1,0 +1,6 @@
+Django>=5.2,<6
+djangorestframework>=3.16,<4
+psycopg[binary]>=3.2,<4
+reportlab>=4.2
+pdf417gen>=0.8,<0.9
+tzdata
